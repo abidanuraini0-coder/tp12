@@ -1,20 +1,8 @@
 Character Manager Sprint #5
 Layout, UI Responsif & Analisis MVC
 
-|------------------------------------------------------|
-| Jumlah Karakter: 8       Rata-rata Level: 4.5        |
-|------------------------------------------------------|
-|                              |                       |
-| DAFTAR KARAKTER              | ROLE LEGEND           |
-|                              |                       |
-| [Karakter 1]                 | WARRIOR               |
-| [Karakter 2]                 | MAGE                  |
-| [Karakter 3]                 | ARCHER                |
-| [Karakter 4]                 | HEALER                |
-| [Karakter 5]                 |                       |
-|                              |                       |
-|       SCROLLABLE             |                       |
-|------------------------------------------------------|
+<img width="528" height="370" alt="image" src="https://github.com/user-attachments/assets/1080ec67-9d35-4fbc-b808-6515ff83fe08" />
+
 
 <img width="725" height="826" alt="Screenshot 2026-11-03 211129" src="https://github.com/user-attachments/assets/adb4f1d1-74de-443f-990a-9059a7905058" />
 <img width="1117" height="602" alt="Screenshot 2026-11-03 212138" src="https://github.com/user-attachments/assets/9279e1ab-3cd6-4b3d-87d7-02d8eb431225" />
